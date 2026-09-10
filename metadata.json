@@ -1,0 +1,6 @@
+{
+  "name": "Aether - Intelligent 3D Platform",
+  "description": "A modern, futuristic SaaS platform featuring real-time interactive 3D objects, cinematic lighting, and intelligent computing infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
